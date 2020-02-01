@@ -1,0 +1,6 @@
+model_checkpoint_path: "/catkin_ws/src/project/src/model/actor/actor-network-24000"
+all_model_checkpoint_paths: "/catkin_ws/src/project/src/model/actor/actor-network-23996"
+all_model_checkpoint_paths: "/catkin_ws/src/project/src/model/actor/actor-network-23997"
+all_model_checkpoint_paths: "/catkin_ws/src/project/src/model/actor/actor-network-23998"
+all_model_checkpoint_paths: "/catkin_ws/src/project/src/model/actor/actor-network-23999"
+all_model_checkpoint_paths: "/catkin_ws/src/project/src/model/actor/actor-network-24000"
